@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+H:\Drive'ım\Projects\ACLuaClient\ACLuaClient\ACLua.h(33,20): warning C4244: 'başlatılıyor': 'lua_Number' - 'float' dönüşümü; veri kaybı olabilir
+H:\Drive'ım\Projects\ACLuaClient\ACLuaClient\ACLua.h(34,20): warning C4244: 'başlatılıyor': 'lua_Number' - 'float' dönüşümü; veri kaybı olabilir
+LINK : warning LNK4098: defaultlib 'LIBCMT' diğer kitaplıkların kullanımı ile çakışıyor; /NODEFAULTLIB:library kullanın
+  Kod üretiliyor
+  Previous IOBJ not found, fall back to full compilation.
+h:\drive'�m\projects\acluaclient\acluaclient\pch.cpp : fatal error C1083: derleyici ara dosyası açılamıyor: 'Release\ACLuaClient.ipdb': Permission denied
+LINK : fatal error LNK1257: Kod üretme başarısız oldu

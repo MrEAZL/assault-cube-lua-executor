@@ -1,0 +1,11 @@
+H:\Drive'ım\Projects\LuaExecutor\LuaExecutor\bin\Release\LuaExecutor.exe.config
+H:\Drive'ım\Projects\LuaExecutor\LuaExecutor\bin\Release\LuaExecutor.exe
+H:\Drive'ım\Projects\LuaExecutor\LuaExecutor\bin\Release\LuaExecutor.pdb
+H:\Drive'ım\Projects\LuaExecutor\LuaExecutor\obj\Release\LuaExecutor.csproj.AssemblyReference.cache
+H:\Drive'ım\Projects\LuaExecutor\LuaExecutor\obj\Release\LuaExecutor.csproj.SuggestedBindingRedirects.cache
+H:\Drive'ım\Projects\LuaExecutor\LuaExecutor\obj\Release\LuaExecutor.UnnamedExecutor.resources
+H:\Drive'ım\Projects\LuaExecutor\LuaExecutor\obj\Release\LuaExecutor.Properties.Resources.resources
+H:\Drive'ım\Projects\LuaExecutor\LuaExecutor\obj\Release\LuaExecutor.csproj.GenerateResource.cache
+H:\Drive'ım\Projects\LuaExecutor\LuaExecutor\obj\Release\LuaExecutor.csproj.CoreCompileInputs.cache
+H:\Drive'ım\Projects\LuaExecutor\LuaExecutor\obj\Release\LuaExecutor.exe
+H:\Drive'ım\Projects\LuaExecutor\LuaExecutor\obj\Release\LuaExecutor.pdb

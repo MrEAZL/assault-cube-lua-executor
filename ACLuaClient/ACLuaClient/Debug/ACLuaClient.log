@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+H:\Drive'ım\Projects\ACLuaClient\ACLuaClient\ACLua.h(34,20): warning C4244: 'başlatılıyor': 'lua_Number' - 'float' dönüşümü; veri kaybı olabilir
+H:\Drive'ım\Projects\ACLuaClient\ACLuaClient\ACLua.h(40,53): warning C4244: '=': 'clock_t' - 'float' dönüşümü; veri kaybı olabilir
+H:\Drive'ım\Projects\ACLuaClient\ACLuaClient\ACLua.h(50,20): warning C4244: 'başlatılıyor': 'lua_Number' - 'float' dönüşümü; veri kaybı olabilir
+H:\Drive'ım\Projects\ACLuaClient\ACLuaClient\ACLua.h(51,20): warning C4244: 'başlatılıyor': 'lua_Number' - 'float' dönüşümü; veri kaybı olabilir
+LINK : warning LNK4098: defaultlib 'LIBCMT' diğer kitaplıkların kullanımı ile çakışıyor; /NODEFAULTLIB:library kullanın
+  ACLuaClient.vcxproj -> H:\Drive'ım\Projects\ACLuaClient\Debug\ACLuaClient.dll
